@@ -2,665 +2,206 @@
   "users": [
     {
       "id": 1,
-      "name": "Mike Miller",
-      "email": "mike.miller1@example.com",
-      "phone": "+1-555-879-9516",
-      "address": "440 Maple Dr, Riverside, USA",
-      "image": "https://xsgames.co/randomusers/assets/avatars/male/51.jpg",
-      "hobbies": [
-        "cycling",
-        "reading",
-        "gaming",
-        "photography"
-      ]
+      "name": "Sara Walton",
+      "title": "Graphic Designer - Video Editor",
+      "phone": "+000 1234 5678",
+      "email": "info@mail.com",
+      "website": "www.inwebsite.com",
+      "social": "@SaraWalton",
+      "image": "https://randomuser.me/api/portraits/women/1.jpg"
     },
     {
       "id": 2,
-      "name": "James Jones",
-      "email": "james.jones2@example.com",
-      "phone": "+1-555-241-5064",
-      "address": "681 3rd Blvd, Springfield, USA",
-      "image": "https://randomuser.me/api/portraits/women/2.jpg",
-      "hobbies": [
-        "cycling",
-        "hiking"
-      ]
+      "name": "Michael Chen",
+      "title": "Senior Software Engineer",
+      "phone": "+000 2345 6789",
+      "email": "michael.chen@mail.com",
+      "website": "www.michaelchen.dev",
+      "social": "@MikeChen",
+      "image": "https://randomuser.me/api/portraits/men/1.jpg"
     },
     {
       "id": 3,
-      "name": "John Jones",
-      "email": "john.jones3@example.com",
-      "phone": "+1-555-288-6021",
-      "address": "828 2nd Ave, Bristol, USA",
-      "image": "https://randomuser.me/api/portraits/men/3.jpg",
-      "hobbies": [
-        "hiking",
-        "cycling"
-      ]
+      "name": "Jessica Rodriguez",
+      "title": "Marketing Director",
+      "phone": "+000 3456 7890",
+      "email": "j.rodriguez@mail.com",
+      "website": "www.jessicamarketing.com",
+      "social": "@JessRod",
+      "image": "https://randomuser.me/api/portraits/women/2.jpg"
     },
     {
       "id": 4,
-      "name": "Mary Doe",
-      "email": "mary.doe4@example.com",
-      "phone": "+1-555-207-1789",
-      "address": "478 2nd Ave, Franklin, USA",
-      "image": "https://randomuser.me/api/portraits/women/4.jpg",
-      "hobbies": [
-        "hiking",
-        "photography",
-        "gaming"
-      ]
+      "name": "David Kim",
+      "title": "Lead Data Scientist",
+      "phone": "+000 4567 8901",
+      "email": "david.kim@mail.com",
+      "website": "www.dkimanalytics.com",
+      "social": "@DataDave",
+      "image": "https://randomuser.me/api/portraits/men/2.jpg"
     },
     {
       "id": 5,
-      "name": "Steve Moore",
-      "email": "steve.moore5@example.com",
-      "phone": "+1-555-768-1861",
-      "address": "82 Main St, Bristol, USA",
-      "image": "https://randomuser.me/api/portraits/men/5.jpg",
-      "hobbies": [
-        "gaming",
-        "cycling"
-      ]
+      "name": "Emily Wilson",
+      "title": "UX/UI Designer",
+      "phone": "+000 5678 9012",
+      "email": "emily.wilson@mail.com",
+      "website": "www.emilyux.com",
+      "social": "@EmDesigns",
+      "image": "https://randomuser.me/api/portraits/women/3.jpg"
     },
     {
       "id": 6,
-      "name": "Jane Jones",
-      "email": "jane.jones6@example.com",
-      "phone": "+1-555-751-2258",
-      "address": "991 Oak St, Clinton, USA",
-      "image": "https://randomuser.me/api/portraits/women/6.jpg",
-      "hobbies": [
-        "reading",
-        "cycling",
-        "cooking",
-        "dancing"
-      ]
+      "name": "Robert Johnson",
+      "title": "Financial Analyst",
+      "phone": "+000 6789 0123",
+      "email": "r.johnson@mail.com",
+      "website": "www.rjfinance.com",
+      "social": "@RobJFinance",
+      "image": "https://randomuser.me/api/portraits/men/3.jpg"
     },
     {
       "id": 7,
-      "name": "Mary Davis",
-      "email": "mary.davis7@example.com",
-      "phone": "+1-555-292-2465",
-      "address": "162 Pine Rd, Franklin, USA",
-      "image": "https://randomuser.me/api/portraits/men/7.jpg",
-      "hobbies": [
-        "traveling",
-        "painting"
-      ]
+      "name": "Sophia Martinez",
+      "title": "HR Director",
+      "phone": "+000 7890 1234",
+      "email": "s.martinez@mail.com",
+      "website": "www.sophiahr.com",
+      "social": "@HR_Sophia",
+      "image": "https://randomuser.me/api/portraits/women/4.jpg"
     },
     {
       "id": 8,
-      "name": "Bob Doe",
-      "email": "bob.doe8@example.com",
-      "phone": "+1-555-300-4746",
-      "address": "706 2nd Ave, Franklin, USA",
-      "image": "https://randomuser.me/api/portraits/women/8.jpg",
-      "hobbies": [
-        "cooking",
-        "cycling"
-      ]
+      "name": "Daniel Brown",
+      "title": "Product Manager",
+      "phone": "+000 8901 2345",
+      "email": "daniel.b@mail.com",
+      "website": "www.danielproducts.com",
+      "social": "@DanThePM",
+      "image": "https://randomuser.me/api/portraits/men/4.jpg"
     },
     {
       "id": 9,
-      "name": "Sara Jones",
-      "email": "sara.jones9@example.com",
-      "phone": "+1-555-763-7722",
-      "address": "768 2nd Ave, Riverside, USA",
-      "image": "https://randomuser.me/api/portraits/men/9.jpg",
-      "hobbies": [
-        "hiking",
-        "reading",
-        "gaming"
-      ]
+      "name": "Olivia Taylor",
+      "title": "Senior Content Writer",
+      "phone": "+000 9012 3456",
+      "email": "olivia.t@mail.com",
+      "website": "www.oliviawrites.com",
+      "social": "@OliviaWrites",
+      "image": "https://randomuser.me/api/portraits/women/5.jpg"
     },
     {
       "id": 10,
-      "name": "John Moore",
-      "email": "john.moore10@example.com",
-      "phone": "+1-555-515-7542",
-      "address": "108 3rd Blvd, Franklin, USA",
-      "image": "https://randomuser.me/api/portraits/women/10.jpg",
-      "hobbies": [
-        "photography",
-        "painting"
-      ]
+      "name": "James Anderson",
+      "title": "Sales Executive",
+      "phone": "+000 0123 4567",
+      "email": "j.anderson@mail.com",
+      "website": "www.james-sales.com",
+      "social": "@JamesSells",
+      "image": "https://randomuser.me/api/portraits/men/5.jpg"
     },
     {
       "id": 11,
-      "name": "Mary Davis",
-      "email": "mary.davis11@example.com",
-      "phone": "+1-555-471-8976",
-      "address": "697 Park Lane, Springfield, USA",
-      "image": "https://randomuser.me/api/portraits/men/11.jpg",
-      "hobbies": [
-        "cooking",
-        "photography",
-        "hiking"
-      ]
+      "name": "Ava Garcia",
+      "title": "Frontend Developer",
+      "phone": "+000 1234 5679",
+      "email": "ava.g@mail.com",
+      "website": "www.avagarcia.dev",
+      "social": "@AvaCodes",
+      "image": "https://randomuser.me/api/portraits/women/6.jpg"
     },
     {
       "id": 12,
-      "name": "Mike Wilson",
-      "email": "mike.wilson12@example.com",
-      "phone": "+1-555-162-3501",
-      "address": "838 2nd Ave, Springfield, USA",
-      "image": "https://randomuser.me/api/portraits/women/12.jpg",
-      "hobbies": [
-        "photography",
-        "traveling",
-        "cooking",
-        "swimming"
-      ]
+      "name": "William Lee",
+      "title": "DevOps Engineer",
+      "phone": "+000 2345 6780",
+      "email": "will.lee@mail.com",
+      "website": "www.williamdevops.com",
+      "social": "@DevOpsWill",
+      "image": "https://randomuser.me/api/portraits/men/6.jpg"
     },
     {
       "id": 13,
-      "name": "Steve Wilson",
-      "email": "steve.wilson13@example.com",
-      "phone": "+1-555-660-5558",
-      "address": "154 Oak St, Franklin, USA",
-      "image": "https://randomuser.me/api/portraits/men/13.jpg",
-      "hobbies": [
-        "hiking",
-        "cycling",
-        "traveling"
-      ]
+      "name": "Isabella Clark",
+      "title": "Social Media Manager",
+      "phone": "+000 3456 7891",
+      "email": "isabella.c@mail.com",
+      "website": "www.bellacontent.com",
+      "social": "@BellaSocial",
+      "image": "https://randomuser.me/api/portraits/women/7.jpg"
     },
     {
       "id": 14,
-      "name": "Bob Doe",
-      "email": "bob.doe14@example.com",
-      "phone": "+1-555-266-9796",
-      "address": "201 Pine Rd, Franklin, USA",
-      "image": "https://randomuser.me/api/portraits/women/14.jpg",
-      "hobbies": [
-        "photography",
-        "dancing",
-        "reading"
-      ]
+      "name": "Ethan Wright",
+      "title": "Cybersecurity Specialist",
+      "phone": "+000 4567 8902",
+      "email": "ethan.w@mail.com",
+      "website": "www.ethansec.com",
+      "social": "@SecureEthan",
+      "image": "https://randomuser.me/api/portraits/men/7.jpg"
     },
     {
       "id": 15,
-      "name": "Jane Miller",
-      "email": "jane.miller15@example.com",
-      "phone": "+1-555-879-1007",
-      "address": "465 Oak St, Clinton, USA",
-      "image": "https://randomuser.me/api/portraits/men/15.jpg",
-      "hobbies": [
-        "reading",
-        "gaming"
-      ]
+      "name": "Mia Adams",
+      "title": "Graphic Designer",
+      "phone": "+000 5678 9013",
+      "email": "mia.adams@mail.com",
+      "website": "www.miadesigns.com",
+      "social": "@MiaCreates",
+      "image": "https://randomuser.me/api/portraits/women/8.jpg"
     },
     {
       "id": 16,
-      "name": "Linda Johnson",
-      "email": "linda.johnson16@example.com",
-      "phone": "+1-555-486-3057",
-      "address": "558 Pine Rd, Clinton, USA",
-      "image": "https://randomuser.me/api/portraits/women/16.jpg",
-      "hobbies": [
-        "painting",
-        "photography"
-      ]
+      "name": "Alexander Scott",
+      "title": "Business Analyst",
+      "phone": "+000 6789 0124",
+      "email": "alex.s@mail.com",
+      "website": "www.alexanalyze.com",
+      "social": "@AlexAnalyzes",
+      "image": "https://randomuser.me/api/portraits/men/8.jpg"
     },
     {
       "id": 17,
-      "name": "James Jones",
-      "email": "james.jones17@example.com",
-      "phone": "+1-555-489-7765",
-      "address": "531 Maple Dr, Springfield, USA",
-      "image": "https://randomuser.me/api/portraits/men/17.jpg",
-      "hobbies": [
-        "gaming",
-        "cooking"
-      ]
+      "name": "Charlotte Green",
+      "title": "Recruitment Specialist",
+      "phone": "+000 7890 1235",
+      "email": "charlotte.g@mail.com",
+      "website": "www.charlotterecruits.com",
+      "social": "@CharHires",
+      "image": "https://randomuser.me/api/portraits/women/9.jpg"
     },
     {
       "id": 18,
-      "name": "Alice Williams",
-      "email": "alice.williams18@example.com",
-      "phone": "+1-555-389-4012",
-      "address": "416 3rd Blvd, Clinton, USA",
-      "image": "https://randomuser.me/api/portraits/women/18.jpg",
-      "hobbies": [
-        "traveling",
-        "cycling"
-      ]
+      "name": "Benjamin Hall",
+      "title": "Project Manager",
+      "phone": "+000 8901 2346",
+      "email": "ben.hall@mail.com",
+      "website": "www.benprojects.com",
+      "social": "@BenManages",
+      "image": "https://randomuser.me/api/portraits/men/9.jpg"
     },
     {
       "id": 19,
-      "name": "Mary Doe",
-      "email": "mary.doe19@example.com",
-      "phone": "+1-555-123-2774",
-      "address": "114 2nd Ave, Riverside, USA",
-      "image": "https://randomuser.me/api/portraits/men/19.jpg",
-      "hobbies": [
-        "traveling",
-        "reading"
-      ]
+      "name": "Amelia Young",
+      "title": "Technical Writer",
+      "phone": "+000 9012 3457",
+      "email": "amelia.y@mail.com",
+      "website": "www.ameliatechnical.com",
+      "social": "@AmeliaWritesTech",
+      "image": "https://randomuser.me/api/portraits/women/10.jpg"
     },
     {
       "id": 20,
-      "name": "Linda Jones",
-      "email": "linda.jones20@example.com",
-      "phone": "+1-555-288-9432",
-      "address": "921 2nd Ave, Greenville, USA",
-      "image": "https://randomuser.me/api/portraits/women/20.jpg",
-      "hobbies": [
-        "dancing",
-        "cooking",
-        "swimming",
-        "cycling"
-      ]
-    },
-    {
-      "id": 21,
-      "name": "Mike Wilson",
-      "email": "mike.wilson21@example.com",
-      "phone": "+1-555-294-9125",
-      "address": "795 3rd Blvd, Clinton, USA",
-      "image": "https://randomuser.me/api/portraits/men/21.jpg",
-      "hobbies": [
-        "hiking",
-        "gaming"
-      ]
-    },
-    {
-      "id": 22,
-      "name": "James Johnson",
-      "email": "james.johnson22@example.com",
-      "phone": "+1-555-394-1178",
-      "address": "984 2nd Ave, Bristol, USA",
-      "image": "https://randomuser.me/api/portraits/women/22.jpg",
-      "hobbies": [
-        "painting",
-        "swimming",
-        "gaming",
-        "traveling"
-      ]
-    },
-    {
-      "id": 23,
-      "name": "Linda Brown",
-      "email": "linda.brown23@example.com",
-      "phone": "+1-555-611-7438",
-      "address": "884 2nd Ave, Riverside, USA",
-      "image": "https://randomuser.me/api/portraits/men/23.jpg",
-      "hobbies": [
-        "dancing",
-        "traveling",
-        "cycling"
-      ]
-    },
-    {
-      "id": 24,
-      "name": "Linda Doe",
-      "email": "linda.doe24@example.com",
-      "phone": "+1-555-119-3930",
-      "address": "352 Park Lane, Clinton, USA",
-      "image": "https://randomuser.me/api/portraits/women/24.jpg",
-      "hobbies": [
-        "traveling",
-        "painting",
-        "cycling",
-        "hiking"
-      ]
-    },
-    {
-      "id": 25,
-      "name": "Linda Miller",
-      "email": "linda.miller25@example.com",
-      "phone": "+1-555-443-8829",
-      "address": "861 Pine Rd, Greenville, USA",
-      "image": "https://randomuser.me/api/portraits/men/25.jpg",
-      "hobbies": [
-        "photography",
-        "cycling",
-        "cooking"
-      ]
-    },
-    {
-      "id": 26,
-      "name": "Steve Wilson",
-      "email": "steve.wilson26@example.com",
-      "phone": "+1-555-972-3145",
-      "address": "785 Pine Rd, Riverside, USA",
-      "image": "https://randomuser.me/api/portraits/women/26.jpg",
-      "hobbies": [
-        "dancing",
-        "traveling",
-        "photography"
-      ]
-    },
-    {
-      "id": 27,
-      "name": "James Jones",
-      "email": "james.jones27@example.com",
-      "phone": "+1-555-820-2839",
-      "address": "767 Maple Dr, Franklin, USA",
-      "image": "https://randomuser.me/api/portraits/men/27.jpg",
-      "hobbies": [
-        "swimming",
-        "cooking",
-        "dancing",
-        "cycling"
-      ]
-    },
-    {
-      "id": 28,
-      "name": "Mike Brown",
-      "email": "mike.brown28@example.com",
-      "phone": "+1-555-422-7749",
-      "address": "284 2nd Ave, Clinton, USA",
-      "image": "https://randomuser.me/api/portraits/women/28.jpg",
-      "hobbies": [
-        "photography",
-        "painting"
-      ]
-    },
-    {
-      "id": 29,
-      "name": "James Smith",
-      "email": "james.smith29@example.com",
-      "phone": "+1-555-657-7660",
-      "address": "260 2nd Ave, Greenville, USA",
-      "image": "https://randomuser.me/api/portraits/men/29.jpg",
-      "hobbies": [
-        "cooking",
-        "cycling",
-        "photography"
-      ]
-    },
-    {
-      "id": 30,
-      "name": "Sara Jones",
-      "email": "sara.jones30@example.com",
-      "phone": "+1-555-571-1051",
-      "address": "814 Pine Rd, Greenville, USA",
-      "image": "https://randomuser.me/api/portraits/women/30.jpg",
-      "hobbies": [
-        "gaming",
-        "dancing",
-        "swimming",
-        "traveling"
-      ]
-    },
-    {
-      "id": 31,
-      "name": "Jane Moore",
-      "email": "jane.moore31@example.com",
-      "phone": "+1-555-988-3344",
-      "address": "902 Main St, Springfield, USA",
-      "image": "https://randomuser.me/api/portraits/men/31.jpg",
-      "hobbies": [
-        "cooking",
-        "gaming",
-        "reading"
-      ]
-    },
-    {
-      "id": 32,
-      "name": "Sara Johnson",
-      "email": "sara.johnson32@example.com",
-      "phone": "+1-555-942-2834",
-      "address": "999 Pine Rd, Clinton, USA",
-      "image": "https://randomuser.me/api/portraits/women/32.jpg",
-      "hobbies": [
-        "painting",
-        "cooking",
-        "cycling",
-        "swimming"
-      ]
-    },
-    {
-      "id": 33,
-      "name": "John Moore",
-      "email": "john.moore33@example.com",
-      "phone": "+1-555-880-6053",
-      "address": "300 2nd Ave, Greenville, USA",
-      "image": "https://randomuser.me/api/portraits/men/33.jpg",
-      "hobbies": [
-        "painting",
-        "traveling",
-        "swimming"
-      ]
-    },
-    {
-      "id": 34,
-      "name": "Steve Smith",
-      "email": "steve.smith34@example.com",
-      "phone": "+1-555-907-6480",
-      "address": "744 2nd Ave, Bristol, USA",
-      "image": "https://randomuser.me/api/portraits/women/34.jpg",
-      "hobbies": [
-        "hiking",
-        "cooking",
-        "photography"
-      ]
-    },
-    {
-      "id": 35,
-      "name": "John Jones",
-      "email": "john.jones35@example.com",
-      "phone": "+1-555-387-2402",
-      "address": "456 Park Lane, Springfield, USA",
-      "image": "https://randomuser.me/api/portraits/men/35.jpg",
-      "hobbies": [
-        "cooking",
-        "dancing"
-      ]
-    },
-    {
-      "id": 36,
-      "name": "James Williams",
-      "email": "james.williams36@example.com",
-      "phone": "+1-555-170-6503",
-      "address": "943 Oak St, Springfield, USA",
-      "image": "https://randomuser.me/api/portraits/women/36.jpg",
-      "hobbies": [
-        "photography",
-        "traveling",
-        "cycling",
-        "painting"
-      ]
-    },
-    {
-      "id": 37,
-      "name": "Sara Johnson",
-      "email": "sara.johnson37@example.com",
-      "phone": "+1-555-484-4881",
-      "address": "757 2nd Ave, Franklin, USA",
-      "image": "https://randomuser.me/api/portraits/men/37.jpg",
-      "hobbies": [
-        "cycling",
-        "photography",
-        "cooking",
-        "reading"
-      ]
-    },
-    {
-      "id": 38,
-      "name": "Jane Davis",
-      "email": "jane.davis38@example.com",
-      "phone": "+1-555-491-2307",
-      "address": "571 2nd Ave, Franklin, USA",
-      "image": "https://randomuser.me/api/portraits/women/38.jpg",
-      "hobbies": [
-        "reading",
-        "gaming"
-      ]
-    },
-    {
-      "id": 39,
-      "name": "Jane Wilson",
-      "email": "jane.wilson39@example.com",
-      "phone": "+1-555-776-5694",
-      "address": "692 Oak St, Clinton, USA",
-      "image": "https://randomuser.me/api/portraits/men/39.jpg",
-      "hobbies": [
-        "painting",
-        "cooking"
-      ]
-    },
-    {
-      "id": 40,
-      "name": "Sara Moore",
-      "email": "sara.moore40@example.com",
-      "phone": "+1-555-154-7647",
-      "address": "109 Pine Rd, Franklin, USA",
-      "image": "https://randomuser.me/api/portraits/women/40.jpg",
-      "hobbies": [
-        "painting",
-        "reading",
-        "traveling",
-        "gaming"
-      ]
-    },
-    {
-      "id": 41,
-      "name": "Bob Jones",
-      "email": "bob.jones41@example.com",
-      "phone": "+1-555-492-1142",
-      "address": "148 Maple Dr, Greenville, USA",
-      "image": "https://randomuser.me/api/portraits/men/41.jpg",
-      "hobbies": [
-        "photography",
-        "reading",
-        "traveling",
-        "dancing"
-      ]
-    },
-    {
-      "id": 42,
-      "name": "Alice Brown",
-      "email": "alice.brown42@example.com",
-      "phone": "+1-555-453-1400",
-      "address": "975 Pine Rd, Springfield, USA",
-      "image": "https://randomuser.me/api/portraits/women/42.jpg",
-      "hobbies": [
-        "swimming",
-        "cycling"
-      ]
-    },
-    {
-      "id": 43,
-      "name": "Bob Smith",
-      "email": "bob.smith43@example.com",
-      "phone": "+1-555-867-4314",
-      "address": "170 Maple Dr, Riverside, USA",
-      "image": "https://randomuser.me/api/portraits/men/43.jpg",
-      "hobbies": [
-        "hiking",
-        "dancing"
-      ]
-    },
-    {
-      "id": 44,
-      "name": "Linda Moore",
-      "email": "linda.moore44@example.com",
-      "phone": "+1-555-403-7290",
-      "address": "839 Pine Rd, Clinton, USA",
-      "image": "https://randomuser.me/api/portraits/women/44.jpg",
-      "hobbies": [
-        "photography",
-        "hiking"
-      ]
-    },
-    {
-      "id": 45,
-      "name": "Linda Davis",
-      "email": "linda.davis45@example.com",
-      "phone": "+1-555-196-7495",
-      "address": "136 Main St, Greenville, USA",
-      "image": "https://randomuser.me/api/portraits/men/45.jpg",
-      "hobbies": [
-        "gaming",
-        "traveling",
-        "cycling",
-        "cooking"
-      ]
-    },
-    {
-      "id": 46,
-      "name": "Mike Williams",
-      "email": "mike.williams46@example.com",
-      "phone": "+1-555-337-7976",
-      "address": "809 3rd Blvd, Springfield, USA",
-      "image": "https://randomuser.me/api/portraits/women/46.jpg",
-      "hobbies": [
-        "gaming",
-        "hiking",
-        "photography",
-        "traveling"
-      ]
-    },
-    {
-      "id": 47,
-      "name": "Sara Brown",
-      "email": "sara.brown47@example.com",
-      "phone": "+1-555-699-2630",
-      "address": "540 Park Lane, Franklin, USA",
-      "image": "https://randomuser.me/api/portraits/men/47.jpg",
-      "hobbies": [
-        "gaming",
-        "painting"
-      ]
-    },
-    {
-      "id": 48,
-      "name": "Mary Williams",
-      "email": "mary.williams48@example.com",
-      "phone": "+1-555-469-8025",
-      "address": "884 3rd Blvd, Franklin, USA",
-      "image": "https://randomuser.me/api/portraits/women/48.jpg",
-      "hobbies": [
-        "painting",
-        "dancing",
-        "swimming",
-        "cooking"
-      ]
-    },
-    {
-      "id": 49,
-      "name": "John Brown",
-      "email": "john.brown49@example.com",
-      "phone": "+1-555-260-5222",
-      "address": "67 3rd Blvd, Clinton, USA",
-      "image": "https://randomuser.me/api/portraits/men/49.jpg",
-      "hobbies": [
-        "photography",
-        "cycling",
-        "dancing",
-        "hiking"
-      ]
-    },
-    {
-      "id": 50,
-      "name": "Bob Jones",
-      "email": "bob.jones50@example.com",
-      "phone": "+1-555-332-5201",
-      "address": "825 3rd Blvd, Riverside, USA",
-      "image": "https://randomuser.me/api/portraits/women/50.jpg",
-      "hobbies": [
-        "reading",
-        "hiking",
-        "gaming",
-        "swimming"
-      ]
-    },
-    {
-      "id": 51,
-      "name": "Bob Jones",
-      "email": "bob.jones50@example.com",
-      "phone": "+1-555-332-5201",
-      "address": "825 3rd Blvd, Riverside, USA",
-      "image": "https://randomuser.me/api/portraits/women/50.jpg",
-      "hobbies": [
-        "reading",
-        "hiking",
-        "gaming",
-        "swimming"
-      ]
+      "name": "Lucas King",
+      "title": "Sales Manager",
+      "phone": "+000 0123 4568",
+      "email": "lucas.king@mail.com",
+      "website": "www.lucassales.com",
+      "social": "@KingOfSales",
+      "image": "https://randomuser.me/api/portraits/men/10.jpg"
     }
-  ]
+  ],
+  "total": 100,
+  "limit": 20,
+  "offset": 0
 }
